@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy<2.0
+joblib
+lightgbm
+scikit-learn==1.2.2
+altair==4.2.2
